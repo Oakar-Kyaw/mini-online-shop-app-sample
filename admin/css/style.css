@@ -1,0 +1,94 @@
+body {
+    
+    background: rgb(252, 254, 255);
+    font-family: 'Genos', sans-serif;
+
+}
+
+a {
+    color:rgb(58, 55, 55);
+}
+
+
+
+hr {
+    
+    color:rgb(23, 21, 21);
+}
+
+
+.active {
+   background-color: #d4d1d1;
+   color:#341bf4;
+    
+}
+
+.bg-white {
+    background-color: rgb(240, 240, 240) !important;
+}
+
+.container-fluid {
+    padding:0;
+    height:100%;
+  
+}
+
+.fa-angle-right,.fa-angle-down {
+    font-size:15px;
+    float:right;
+    margin-top: 10px;
+    
+   
+}
+
+.line {
+    border:solid 0.5px rgb(211, 211, 211);
+}
+
+.menu-list {
+    background-color: rgb(237, 237, 237) !important;
+}
+
+.menu-text, .order-text, .ticket-text, .user-text {
+    margin-left: 10px;
+}
+
+.nav-color {
+    background-color: #F7E2E8 !important;
+}
+
+.nav-link {
+    color:rgb(246, 241, 241);
+}
+
+.nav-link:hover {
+    color:#446cc3;
+}
+
+.no-underline {
+    text-decoration: none;
+}
+
+.shop-menu-list input {
+    font-size:20px;
+}
+
+.text-color-white {
+    color:#fffefe;
+}
+
+.user-lists {
+   
+   
+    color:#1a1616 !important;
+}
+
+.user-lists-hr {
+    color:#d4d1d1;
+}
+
+@media (max-width:992px) {
+    .line {
+        display:none;
+    }
+}
