@@ -2,7 +2,6 @@
 include "includes/db.php";
 include "includes/header.php";
 include "function.php";
-
 addItemToCart();
 addFavorite();
 

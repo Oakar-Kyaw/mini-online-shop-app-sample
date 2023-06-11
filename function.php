@@ -1,8 +1,5 @@
 <?php
 include "includes/db.php";
-
-
-
 function buyItem(){
     global $connection;
     if(isset($_POST['buy_item'])){
